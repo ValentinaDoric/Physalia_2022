@@ -24,6 +24,7 @@ names      :      B1_sre,      B2_sre,      B3_sre,      B4_sre,      B5_sre,   
 min values :         0.0,         0.0,         0.0,         0.0,         0.0,       295.1,         0.0 
 max values :   1.0000000,   0.2563655,   0.2591587,   0.5592193,   0.4894984, 305.2000000,   0.3692634 
 
+#resolution in meters
 #do not consider B6 since it's completely different from the rest
 
 plot(l2011)
